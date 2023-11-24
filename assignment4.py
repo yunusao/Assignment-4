@@ -1,3 +1,5 @@
+#NAME: YUNUS ABU-OSHAIBAH
+#STUDENT NUMBER: 101222737
 #modules that were downloaded to connect postegres to python
 import psycopg2             
 import psycopg2.extras  
